@@ -14,7 +14,7 @@ That describes how to use balance sheet statement API on financialmodelingprep.c
 String symbol : ex. AAPL
 Integer limit : ex., 120
 String period : annual | quarter
-String datatype : csv
+String datatype : json | csv
 ```
 
 **Request Example:**
