@@ -11,10 +11,10 @@ That describes how to use balance sheet statement API on financialmodelingprep.c
 **Request Parameters:**
 
 ```solidity
-symbol : Company Symbol, ex. AAPL
-limit : Number
-period : annual | quarter
-datatype : csv
+String symbol : ex. AAPL
+Integer limit : ex., 120
+String period : annual | quarter
+String datatype : csv
 ```
 
 **Request Example:**
