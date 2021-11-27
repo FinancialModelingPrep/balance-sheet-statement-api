@@ -1,4 +1,4 @@
-# [Balance Sheet Statement API Documenatation](https://site.financialmodelingprep.com)
+# [Balance Sheet Statement API Documenatation](https://site.financialmodelingprep.com/docs)
 That describes how to use balance sheet statement API on financialmodelingprep.com.
 <br />
 <br />
